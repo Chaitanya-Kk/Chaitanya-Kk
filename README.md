@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Chaitanya Kamble
 
-<!--
-**Chaitanya-Kk/Chaitanya-Kk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **AI Enthusiast | IoT Innovator | CS (AI) Student at VIT Pune**  
+💡 Building cutting-edge AI solutions, blending hardware and software seamlessly.  
+📚 Currently developing ML models for speech disorder prediction.  
+🔗 Let's connect: [LinkedIn](www.linkedin.com/in/chaitanya-kamble19) | 
 
-Here are some ideas to get you started:
+⚡ **Tech Stack**:  
+- **Programming**: Python, C++  
+- **Tools**: PostgreSQL,PowerBi,Code;;Blocks,   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **GitHub Stats**  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaitanya-Kk&show_icons=true&theme=radical)  
