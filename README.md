@@ -47,3 +47,33 @@
 </div>
 
 ---
+
+### 🔧 **Tech Insights from GitHub**
+<div align="center">
+
+- **Most Used Languages**:  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Kk&layout=compact&theme=radical)
+
+- **Contributions**:  
+  ![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Chaitanya-Kk&theme=radical)
+
+- **Repositories**:  
+  ![Repositories](https://img.shields.io/github/repo-size/Chaitanya-Kk?color=green&logo=github&style=flat)
+
+</div>
+
+---
+
+### 🔍 **GitHub Activity & Trends**
+<div align="center">
+
+- **GitHub Stats Overview**:  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chaitanya-Kk&show_icons=true&count_private=true&theme=radical)
+
+- **Most Used Languages**:  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Kk&layout=compact&theme=radical)
+
+- **Commit Activity**:  
+  ![Commit Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Chaitanya-Kk&theme=radical)
+
+</div>
