@@ -54,11 +54,7 @@
 - **Most Used Languages**:  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Kk&layout=compact&theme=radical)
 
-- **Contributions**:  
-  ![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Chaitanya-Kk&theme=radical)
 
-- **Repositories**:  
-  ![Public Repositories](https://badgen.net/github/repos/Chaitanya-Kk/)
 
 </div>
 
@@ -73,7 +69,6 @@
 - **Most Used Languages**:  
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Kk&layout=compact&theme=radical)
 
-- **Commit Activity**:  
-  ![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Chaitanya-Kk&theme=radical)
+
 
 </div>
