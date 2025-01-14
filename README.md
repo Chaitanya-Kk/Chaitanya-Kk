@@ -1,28 +1,43 @@
-# 👋 Hi, I'm Chaitanya Kamble
+---
+
+# 👋 Hi, I'm Chaitanya Kamble  
 
 🚀 **AI Enthusiast | IoT Innovator | CS (AI) Student at VIT Pune**  
-💡 Passionate about building cutting-edge AI solutions by blending hardware and software seamlessly.  
-📚 Currently developing ML models for predicting speech disorders in children using CNN/CRNN.  
 
-🔗 Let's connect: [LinkedIn](https://linkedin.com/in/chaitanya-kamble)  
-
----
-
-🎯 **Current Focus**:  
-- Advancing expertise in machine learning, IoT, and AI for impactful real-world solutions.  
-- Exploring cloud integration for heavy computation and seamless mobile-device interactions.
-
-⚡ **Tech Stack**:  
-- **Programming**: Python, C++  
-- **Frameworks & Tools**: TensorFlow, PostgreSQL, Power BI, Code::Blocks  
-- **Hardware**: Arduino, sensors, and cameras for prototyping  
-
-💻 **Featured Projects**:  
-- [HarmonyAi](https://github.com/Chaitanya-Kk/HarmonyAI)
-
-📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chaitanya-Kk&show_icons=true&theme=radical)  
+💡 **Passionate about building cutting-edge AI solutions** by seamlessly blending hardware and software.  
+📚 **Currently developing ML models** to predict speech disorders in children using **CNN/CRNN**.  
 
 ---
 
+<div align="center">
 
+### 🛠️ **Tech Stack**
+| **Programming**  | **Frameworks & Tools**    | **Hardware**         |
+|-------------------|---------------------------|----------------------|
+| Python, C++       | TensorFlow, PostgreSQL    | Arduino, sensors     |
+|                   | Power BI, Code::Blocks    | Cameras for prototyping |
+
+</div>  
+
+---
+
+### 🎯 **Focus Areas**  
+- Advancing expertise in **Machine Learning**, **IoT**, and **AI** for real-world solutions.  
+- Leveraging **Cloud Computing** for seamless integration and heavy computations.  
+
+---
+
+<div align="center">
+
+| **📊 GitHub Stats**                            | **🌟 Featured Project**                                   |
+|------------------------------------------------|----------------------------------------------------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chaitanya-Kk&show_icons=true&theme=radical) | [HarmonyAi](https://github.com/Chaitanya-Kk/HarmonyAI) – Bridging the gap between technology and accessibility. |
+
+</div>  
+
+---
+
+### 🔗 **Connect with Me**  
+- [LinkedIn](https://linkedin.com/in/chaitanya-kamble)  
+
+---
