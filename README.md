@@ -42,7 +42,7 @@
 ### 🔗 **LinkedIn Highlights**
 - **Connections**: ![LinkedIn Connections](https://img.shields.io/badge/Connections-500%2B-blue?style=flat&logo=linkedin)  
 - **Profile Views**: ![LinkedIn Profile Views](https://img.shields.io/badge/Profile%20Views-100%2B-green?style=flat&logo=linkedin)  
-- [Visit My LinkedIn](https://linkedin.com/in/chaitanya-kamble)  
+- [Visit My LinkedIn](https://www.linkedin.com/in/chaitanya-kamble19/)  
 
 </div>
 
