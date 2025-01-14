@@ -42,7 +42,7 @@
 ### 🔗 **LinkedIn Highlights**
 - **Connections**: ![LinkedIn Connections](https://img.shields.io/badge/Connections-500%2B-blue?style=flat&logo=linkedin)  
 - **Profile Views**: ![LinkedIn Profile Views](https://img.shields.io/badge/Profile%20Views-100%2B-green?style=flat&logo=linkedin)  
-- [Visit My LinkedIn](https://www.linkedin.com/in/chaitanya-kamble19/)  
+- [Visit My LinkedIn](https://linkedin.com/in/chaitanya-kamble)  
 
 </div>
 
@@ -55,10 +55,10 @@
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Kk&layout=compact&theme=radical)
 
 - **Contributions**:  
-  ![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Chaitanya-Kk&theme=radical)
+  ![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Chaitanya-Kk&theme=radical)
 
 - **Repositories**:  
-  ![Repositories](https://img.shields.io/github/repo-size/Chaitanya-Kk?color=green&logo=github&style=flat)
+  ![Public Repositories](https://badgen.net/github/repos/Chaitanya-Kk/)
 
 </div>
 
@@ -74,6 +74,6 @@
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitanya-Kk&layout=compact&theme=radical)
 
 - **Commit Activity**:  
-  ![Commit Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Chaitanya-Kk&theme=radical)
+  ![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Chaitanya-Kk&theme=radical)
 
 </div>
